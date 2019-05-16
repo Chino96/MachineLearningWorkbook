@@ -1,0 +1,5 @@
+1. How would you define machine learning?
+    - programming computers to learn from data.
+
+2. Can you name 4 types of problems where it shines?
+    - prediction,
